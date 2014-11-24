@@ -1,4 +1,4 @@
-didyoumean
+Did you mean
 ==========
 
-GrayMeta is spelled with an A
+  * [GrayMeta](https://github.com/graymeta) is spelled with an A
